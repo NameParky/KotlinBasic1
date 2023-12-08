@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTraining</string>
+    <string name="app_title2">뷰를 이용한 화면구성(2)</string>
+    <string name="sponge_bob">스펀지밥!!</string>
+    <string name="patrick">뚱이!!</string>
+    <string name="squidward">징징이!!</string>
+</resources>
